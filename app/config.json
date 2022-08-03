@@ -1,0 +1,7 @@
+{
+    "server":{
+        "host":"localhost",
+        "port":5000
+    },
+    "auth_key":"Yash_Test"
+}
